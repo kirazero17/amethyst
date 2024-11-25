@@ -1,3 +1,3 @@
-module github.com/64bitpandas/amethyst
+module github.com/kirazero17/amethyst
 
 go 1.16
